@@ -10,7 +10,7 @@ a passionate self-taught Data Analysis.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
-📊 this week i spent my time on:
+<!-- 📊 this week i spent my time on: -->
 <!--START_SECTION:waka-->
 
 
