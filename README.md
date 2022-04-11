@@ -17,6 +17,6 @@ a passionate self-taught Data Analysis.
 <!--END_SECTION:waka-->
 
 
-<a href="https://www.linkedin.com/in/tassiaggiovanelli/">
+<a href="https://www.linkedin.com/in/tassiaggiovanelli/" target="_blank">
   <img align="left" alt="Tássia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
