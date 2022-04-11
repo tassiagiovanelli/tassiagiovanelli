@@ -1,4 +1,4 @@
-### Hi there, I'm Tássia Giovanelli 👋
+### Hi there, I'm Tássia Giovanelli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 a passionate self-taught Data Analysis.
 
