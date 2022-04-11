@@ -17,5 +17,6 @@ a passionate self-taught Data Analysis.
 <!--END_SECTION:waka-->
 
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+<a href="https://www.linkedin.com/in/tassiaggiovanelli/">
+  <img align="left" alt="Tássia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
