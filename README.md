@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Tássia Giovanelli 👋
 
-<!--
-**tassiagiovanelli/tassiagiovanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a passionate self-taught Data Analysis.
 
-Here are some ideas to get you started:
+**currently studying:**
+<br/>
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📊 this week i spent my time on:
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
