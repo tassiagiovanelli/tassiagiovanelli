@@ -14,7 +14,7 @@ a passionate self-taught Data Analysis.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other   2 hrs 56 mins   █████████████████████████   99.48 %
 ```
 
 <!--END_SECTION:waka-->
