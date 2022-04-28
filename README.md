@@ -14,7 +14,7 @@ a passionate self-taught Data Analysis.
 <!--START_SECTION:waka-->
 
 ```text
-Other   13 hrs 38 mins  █████████████████████████   100.00 %
+Other   12 hrs 41 mins  ████████████████████████▓   99.02 %
 ```
 
 <!--END_SECTION:waka-->
