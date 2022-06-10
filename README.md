@@ -10,16 +10,6 @@ a passionate self-taught Data Analysis.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 
-📊 this week i spent my time on:
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 <a href="https://www.linkedin.com/in/tassiaggiovanelli/">
   <img align="left" alt="Tassia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
