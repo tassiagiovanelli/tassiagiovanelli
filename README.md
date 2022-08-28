@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Tássia Giovanelli 👋
+a passionate self-taught Data Analysis.
 
-<!--
-**tassiagiovanelli/tassiagiovanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h2 align="left">Languages and Tools:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+
+<br>
+
+<h2 align="left">Connect with me:</h2><p align="left">
+
+<a href="https://www.linkedin.com/in/tassiaggiovanelli/">
+  <img align="left" alt="Tassia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+
+</a>
