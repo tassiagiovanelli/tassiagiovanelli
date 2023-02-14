@@ -1,21 +1,27 @@
-### Hi there, I'm Tássia Giovanelli 👋
-a passionate self-taught Data Analysis.
+### Hi there, I'm Tássia Giovanelli :)
+a passionate self-taught Data Analysist 💻📊
 
-<br>
-
-<h2 align="left">Languages and Tools:</h2>
-
-![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+🇧🇷 RJ
 
 
-<br>
+##
 
-<h2 align="left">Connect with me:</h2><p align="left">
+<div style="display: inline_block">
+  <img align="center" alt="JT-PowerBI" height="20" width="80" src="https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI">
+  <img align="center" alt="JT-Tableau" height="20" width="80" src="https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau">
+  <img align="center" alt="JT-Python" height="20" width="80" src="https://img.shields.io/badge/-Python-black?style=plastic-square&logo=Python">
+  <img align="center" alt="JT-SQL" height="20" width="110" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 
-<a href="https://www.linkedin.com/in/tassiaggiovanelli/">
-  <img align="left" alt="Tassia LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+</div>
 
-</a>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/tassiagiovanelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href = "mailto:tassiagiovanelli96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</div>
+    
+##    
+    
+![Snake animation](https://github.com/tassiagiovanelli/tassiagiovanelli/blob/output/github-contribution-grid-snake.svg)
