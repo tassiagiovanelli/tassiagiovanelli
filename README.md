@@ -1,5 +1,5 @@
 ### Hi there, I'm Tássia Giovanelli :)
-a passionate self-taught Data Analysist 💻📊
+a passionate self-taught Data Analyst 💻📊
 
 🇧🇷 RJ
 
